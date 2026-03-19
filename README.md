@@ -1,6 +1,6 @@
 # 3D Body Reconstruction using SAM 3D Body
 
-Small 3D body reconstruction from videos, intended for $\textbf{soccer players}$. Still in its first iterations with some caveats (i.e. the tracking algorithm needs more work for specific person following).
+Small 3D body reconstruction from videos, intended for **soccer players**. Still in its first iterations with some caveats (i.e. the tracking algorithm needs more work for specific person following).
 
 ## 🚀 Features
 - Mesh rendering
